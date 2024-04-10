@@ -4,4 +4,4 @@
 • Responsive Using Bootstrap 
 • Logic Using JavaScript
 
-Link : https://sahimbehlim.github.io/Number-Guessing-Game/
+Link : https://sahimbehlim.github.io/Quiz-App-JS/
