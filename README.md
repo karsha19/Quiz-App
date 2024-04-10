@@ -1,2 +1,5 @@
 # Quiz-App-JS
-Quiz App created using JavaScript
+• Page Structured Using HTML 
+• Designed Using CSS 
+• Responsive Using Bootstrap 
+• Logic Using JavaScript
