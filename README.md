@@ -6,7 +6,7 @@ A simple quiz application created using HTML, CSS, JavaScript, and Bootstrap.
 
 - **10-Second Timer**: Each question has a countdown timer to enhance the challenge.
 - **Progress Line**: Visual indicator that progresses with each question.
-- **Option Highlighting**: Selected options are highlighted with colors—green for correct and red for incorrect answers.
+- **Option Highlighting**: Selected options are highlighted with colors for correct and incorrect answers.
 - **Score Tracking**: Displays scores for right answers, wrong answers, and questions not attempted.
 - **Replay Option**: Users can restart the quiz easily to improve their score.
 
